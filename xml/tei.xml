@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>iranian women</title>
+                <author>shadi Ghadirian</author>
+            </titleStmt>
+            <publicationStmt>
+                <p>Published on 1998-06-15</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>A high-resolution photograph capturing a modern Portrait Photography.</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>Captured by Shadi Ghadirian.The most famous photo series by Gadiri is the "Qajar Women" series, 
+            which depicts Qajar women with modern tools. 
+            This series gained international 
+            fame and it is even said that the renowned Italian semiotician Umberto Eco praised it...</p>
+        </body>
+    </text>
+</TEI>
